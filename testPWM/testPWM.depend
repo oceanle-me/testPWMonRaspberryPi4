@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1647256267 source:/home/pi/Desktop/testPWM/testPWM/main.cpp
+	<iostream>
+	<wiringPi.h>
+	<unistd.h>
+	<wiringPi.h>
+
+1561317098 /usr/include/wiringPi.h
+
+1647241928 /home/pi/WiringPi/wiringPi/wiringPi.h
+

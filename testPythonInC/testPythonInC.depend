@@ -1,0 +1,373 @@
+# depslib dependency file v1.0
+1647271684 source:/home/pi/Desktop/testPWM/testPythonInC/main.cpp
+	<iostream>
+	<Python.h>
+	<stdio.h>
+
+1614531824 /usr/include/python3.9/Python.h
+	"patchlevel.h"
+	"pyconfig.h"
+	"pymacconfig.h"
+	<limits.h>
+	<stdio.h>
+	<string.h>
+	<errno.h>
+	<stdlib.h>
+	<unistd.h>
+	<crypt.h>
+	<stddef.h>
+	<assert.h>
+	"pyport.h"
+	"pymacro.h"
+	"pymath.h"
+	"pytime.h"
+	"pymem.h"
+	"object.h"
+	"objimpl.h"
+	"typeslots.h"
+	"pyhash.h"
+	"pydebug.h"
+	"bytearrayobject.h"
+	"bytesobject.h"
+	"unicodeobject.h"
+	"longobject.h"
+	"longintrepr.h"
+	"boolobject.h"
+	"floatobject.h"
+	"complexobject.h"
+	"rangeobject.h"
+	"memoryobject.h"
+	"tupleobject.h"
+	"listobject.h"
+	"dictobject.h"
+	"odictobject.h"
+	"enumobject.h"
+	"setobject.h"
+	"methodobject.h"
+	"moduleobject.h"
+	"funcobject.h"
+	"classobject.h"
+	"fileobject.h"
+	"pycapsule.h"
+	"code.h"
+	"pyframe.h"
+	"traceback.h"
+	"sliceobject.h"
+	"cellobject.h"
+	"iterobject.h"
+	"genobject.h"
+	"descrobject.h"
+	"genericaliasobject.h"
+	"warnings.h"
+	"weakrefobject.h"
+	"structseq.h"
+	"namespaceobject.h"
+	"picklebufobject.h"
+	"codecs.h"
+	"pyerrors.h"
+	"cpython/initconfig.h"
+	"pythread.h"
+	"pystate.h"
+	"context.h"
+	"pyarena.h"
+	"modsupport.h"
+	"compile.h"
+	"pythonrun.h"
+	"pylifecycle.h"
+	"ceval.h"
+	"sysmodule.h"
+	"osmodule.h"
+	"intrcheck.h"
+	"import.h"
+	"abstract.h"
+	"bltinmodule.h"
+	"eval.h"
+	"pyctype.h"
+	"pystrtod.h"
+	"pystrcmp.h"
+	"fileutils.h"
+	"pyfpe.h"
+	"tracemalloc.h"
+
+1614531824 /usr/include/python3.9/patchlevel.h
+
+1614531824 /usr/include/python3.9/pyconfig.h
+	<x86_64-linux-gnu/python3.9/pyconfig.h>
+	<x86_64-linux-gnux32/python3.9/pyconfig.h>
+	<i386-linux-gnu/python3.9/pyconfig.h>
+	<aarch64-linux-gnu/python3.9/pyconfig.h>
+	<alpha-linux-gnu/python3.9/pyconfig.h>
+	<arm-linux-gnueabihf/python3.9/pyconfig.h>
+	<arm-linux-gnueabi/python3.9/pyconfig.h>
+	<hppa-linux-gnu/python3.9/pyconfig.h>
+	<ia64-linux-gnu/python3.9/pyconfig.h>
+	<m68k-linux-gnu/python3.9/pyconfig.h>
+	<mipsisa32r6el-linux-gnu/python3.9/pyconfig.h>
+	<mipsisa64r6el-linux-gnuabin32/python3.9/pyconfig.h>
+	<mipsisa64r6el-linux-gnuabi64/python3.9/pyconfig.h>
+	<mipsisa32r6-linux-gnu/python3.9/pyconfig.h>
+	<mipsisa64r6-linux-gnuabin32/python3.9/pyconfig.h>
+	<mipsisa64r6-linux-gnuabi64/python3.9/pyconfig.h>
+	<mipsel-linux-gnu/python3.9/pyconfig.h>
+	<mips64el-linux-gnuabin32/python3.9/pyconfig.h>
+	<mips64el-linux-gnuabi64/python3.9/pyconfig.h>
+	<mips-linux-gnu/python3.9/pyconfig.h>
+	<mips64-linux-gnuabin32/python3.9/pyconfig.h>
+	<mips64-linux-gnuabi64/python3.9/pyconfig.h>
+	<or1k-linux-gnu/python3.9/pyconfig.h>
+	<powerpc-linux-gnuspe/python3.9/pyconfig.h>
+	<powerpc64le-linux-gnu/python3.9/pyconfig.h>
+	<powerpc64-linux-gnu/python3.9/pyconfig.h>
+	<powerpc-linux-gnu/python3.9/pyconfig.h>
+	<s390x-linux-gnu/python3.9/pyconfig.h>
+	<s390-linux-gnu/python3.9/pyconfig.h>
+	<sh4-linux-gnu/python3.9/pyconfig.h>
+	<sparc64-linux-gnu/python3.9/pyconfig.h>
+	<sparc-linux-gnu/python3.9/pyconfig.h>
+	<riscv64-linux-gnu/python3.9/pyconfig.h>
+	<riscv32-linux-gnu/python3.9/pyconfig.h>
+	<x86_64-kfreebsd-gnu/python3.9/pyconfig.h>
+	<i386-kfreebsd-gnu/python3.9/pyconfig.h>
+	<i386-gnu/python3.9/pyconfig.h>
+
+1614531824 /usr/include/python3.9/pymacconfig.h
+
+1614531824 /usr/include/python3.9/pyport.h
+	"pyconfig.h"
+	<inttypes.h>
+	<stdlib.h>
+	<ieeefp.h>
+	<math.h>
+	<sys/time.h>
+	<time.h>
+	<sys/time.h>
+	<time.h>
+	<sys/select.h>
+	<sys/stat.h>
+	<stat.h>
+	<sys/types.h>
+	<sys/termio.h>
+	<ctype.h>
+	<wctype.h>
+	"exports.h"
+
+1614531824 /usr/include/python3.9/exports.h
+
+1614531824 /usr/include/python3.9/pymacro.h
+
+1614531824 /usr/include/python3.9/pymath.h
+	"pyconfig.h"
+
+1614531824 /usr/include/python3.9/pytime.h
+	"pyconfig.h"
+	"object.h"
+
+1614531824 /usr/include/python3.9/object.h
+	"cpython/object.h"
+
+1614531824 /usr/include/python3.9/cpython/object.h
+
+1614531824 /usr/include/python3.9/pymem.h
+	"pyport.h"
+	"cpython/pymem.h"
+
+1614531824 /usr/include/python3.9/cpython/pymem.h
+
+1614531824 /usr/include/python3.9/objimpl.h
+	"pymem.h"
+	"cpython/objimpl.h"
+
+1614531824 /usr/include/python3.9/cpython/objimpl.h
+
+1614531824 /usr/include/python3.9/typeslots.h
+
+1614531824 /usr/include/python3.9/pyhash.h
+
+1614531824 /usr/include/python3.9/pydebug.h
+
+1614531824 /usr/include/python3.9/bytearrayobject.h
+	<stdarg.h>
+	"cpython/bytearrayobject.h"
+
+1614531824 /usr/include/python3.9/cpython/bytearrayobject.h
+
+1614531824 /usr/include/python3.9/bytesobject.h
+	<stdarg.h>
+	"cpython/bytesobject.h"
+
+1614531824 /usr/include/python3.9/cpython/bytesobject.h
+
+1614531824 /usr/include/python3.9/unicodeobject.h
+	<stdarg.h>
+	<ctype.h>
+	<wchar.h>
+	"cpython/unicodeobject.h"
+
+1614531824 /usr/include/python3.9/cpython/unicodeobject.h
+
+1614531824 /usr/include/python3.9/longobject.h
+
+1614531824 /usr/include/python3.9/longintrepr.h
+
+1614531824 /usr/include/python3.9/boolobject.h
+
+1614531824 /usr/include/python3.9/floatobject.h
+
+1614531824 /usr/include/python3.9/complexobject.h
+
+1614531824 /usr/include/python3.9/rangeobject.h
+
+1614531824 /usr/include/python3.9/memoryobject.h
+
+1614531824 /usr/include/python3.9/tupleobject.h
+	"cpython/tupleobject.h"
+
+1614531824 /usr/include/python3.9/cpython/tupleobject.h
+
+1614531824 /usr/include/python3.9/listobject.h
+	"cpython/listobject.h"
+
+1614531824 /usr/include/python3.9/cpython/listobject.h
+
+1614531824 /usr/include/python3.9/dictobject.h
+	"cpython/dictobject.h"
+
+1614531824 /usr/include/python3.9/cpython/dictobject.h
+
+1614531824 /usr/include/python3.9/odictobject.h
+
+1614531824 /usr/include/python3.9/enumobject.h
+
+1614531824 /usr/include/python3.9/setobject.h
+
+1614531824 /usr/include/python3.9/methodobject.h
+	"cpython/methodobject.h"
+
+1614531824 /usr/include/python3.9/cpython/methodobject.h
+
+1614531824 /usr/include/python3.9/moduleobject.h
+
+1614531824 /usr/include/python3.9/funcobject.h
+
+1614531824 /usr/include/python3.9/classobject.h
+
+1614531824 /usr/include/python3.9/fileobject.h
+	"cpython/fileobject.h"
+
+1614531824 /usr/include/python3.9/cpython/fileobject.h
+
+1614531824 /usr/include/python3.9/pycapsule.h
+
+1614531824 /usr/include/python3.9/code.h
+	"cpython/code.h"
+
+1614531824 /usr/include/python3.9/cpython/code.h
+
+1614531824 /usr/include/python3.9/pyframe.h
+
+1614531824 /usr/include/python3.9/traceback.h
+	"cpython/traceback.h"
+
+1614531824 /usr/include/python3.9/cpython/traceback.h
+
+1614531824 /usr/include/python3.9/sliceobject.h
+
+1614531824 /usr/include/python3.9/cellobject.h
+
+1614531824 /usr/include/python3.9/iterobject.h
+
+1614531824 /usr/include/python3.9/genobject.h
+	"pystate.h"
+
+1614531824 /usr/include/python3.9/pystate.h
+	"cpython/pystate.h"
+
+1614531824 /usr/include/python3.9/cpython/pystate.h
+	"cpython/initconfig.h"
+
+1614531824 /usr/include/python3.9/cpython/initconfig.h
+
+1614531824 /usr/include/python3.9/descrobject.h
+
+1614531824 /usr/include/python3.9/genericaliasobject.h
+
+1614531824 /usr/include/python3.9/warnings.h
+
+1614531824 /usr/include/python3.9/weakrefobject.h
+
+1614531824 /usr/include/python3.9/structseq.h
+
+1614531824 /usr/include/python3.9/namespaceobject.h
+
+1614531824 /usr/include/python3.9/picklebufobject.h
+
+1614531824 /usr/include/python3.9/codecs.h
+
+1614531824 /usr/include/python3.9/pyerrors.h
+	<stdarg.h>
+	"cpython/pyerrors.h"
+
+1614531824 /usr/include/python3.9/cpython/pyerrors.h
+
+1614531824 /usr/include/python3.9/pythread.h
+	<pthread.h>
+
+1614531824 /usr/include/python3.9/context.h
+
+1614531824 /usr/include/python3.9/pyarena.h
+
+1614531824 /usr/include/python3.9/modsupport.h
+	<stdarg.h>
+
+1614531824 /usr/include/python3.9/compile.h
+
+1614531824 /usr/include/python3.9/pythonrun.h
+
+1614531824 /usr/include/python3.9/pylifecycle.h
+	"cpython/pylifecycle.h"
+
+1614531824 /usr/include/python3.9/cpython/pylifecycle.h
+
+1614531824 /usr/include/python3.9/ceval.h
+	"cpython/ceval.h"
+
+1614531824 /usr/include/python3.9/cpython/ceval.h
+
+1614531824 /usr/include/python3.9/sysmodule.h
+	"cpython/sysmodule.h"
+
+1614531824 /usr/include/python3.9/cpython/sysmodule.h
+
+1614531824 /usr/include/python3.9/osmodule.h
+
+1614531824 /usr/include/python3.9/intrcheck.h
+
+1614531824 /usr/include/python3.9/import.h
+	"cpython/import.h"
+
+1614531824 /usr/include/python3.9/cpython/import.h
+
+1614531824 /usr/include/python3.9/abstract.h
+	"cpython/abstract.h"
+
+1614531824 /usr/include/python3.9/cpython/abstract.h
+
+1614531824 /usr/include/python3.9/bltinmodule.h
+
+1614531824 /usr/include/python3.9/eval.h
+
+1614531824 /usr/include/python3.9/pyctype.h
+
+1614531824 /usr/include/python3.9/pystrtod.h
+
+1614531824 /usr/include/python3.9/pystrcmp.h
+
+1614531824 /usr/include/python3.9/fileutils.h
+	"cpython/fileutils.h"
+
+1614531824 /usr/include/python3.9/cpython/fileutils.h
+
+1614531824 /usr/include/python3.9/pyfpe.h
+
+1614531824 /usr/include/python3.9/tracemalloc.h
+

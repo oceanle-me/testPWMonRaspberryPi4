@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1647255546 source:/home/pi/Desktop/testPWM/testPWM_newlib/main.cpp
+	<stdio.h>
+	<string.h>
+	<time.h>
+	<pi-gpio.h>
+
+1647255097 /usr/local/include/pi-gpio.h
+
